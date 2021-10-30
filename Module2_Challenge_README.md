@@ -25,12 +25,12 @@ Ticker ID ENPH seem to be the best stock in terms of return value when consideri
 ![Refactored Code Time 2017](Resources/VBA_Challenge_2017.png)
 ![Refactored Code Time 2018](Resources/VBA_Challenge_2018.png)
 
-The time it took to run the refactored script for 2017 and 2018 was both faster than the 2017 and 2018's original script time. The refactored scripts ran approximately 0.09 seconds faster than the original script. 
-
 ![Original Macro Code](Resources/Original_Macro_Code.png)
 ![Original Macro Output Code](Resources/Original_Macro_ouput_code.png)
 ![Refactored Macro Code](Resources/Refactored_macro_code.png)
 ![Refactored Macro Output Code](Resources/Refactored_Macro_ouput_code.png)
+
+The time it took to run the refactored script for 2017 and 2018 was both faster than the 2017 and 2018's original script time. The refactored scripts ran approximately 0.09 seconds faster than the original script. 
 
 The were two main differences that were made to the refactored script that made the execution times faster. 
 
